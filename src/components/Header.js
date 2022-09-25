@@ -1,6 +1,6 @@
 import { AppBar, Avatar, IconButton, InputBase, makeStyles, Toolbar, Typography, Drawer, List, ListItem } from '@material-ui/core'
 import React, { useEffect, useState } from 'react'
-import logo from '../imagenes/hotel.png'
+import logo from '../images/hotel.png'
 import SearchIcon from '@material-ui/icons/Search'
 import MenuIcon from '@material-ui/icons/Menu'
 
